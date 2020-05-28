@@ -8,13 +8,15 @@ This repository contains solutions of the [Daily Coding Problem](https://www.dai
 <img src="./.images/image1.jpg" alt="Daily Coding Problem">
 </p>
 
-<p align="center">
-<img src="./.images/divider.png">
-</p>
+<hr />
 
 ## Problems
-<p align="left">
-<img src="./.images/image2.jpg" alt="Daily Coding Problem">
-</p>
 
 * [#1](https://github.com/vladimirlukyanov/DailyCodingProblem/wiki/Problem1)
+
+<hr />
+
+<p align="center">
+    <img src="./.images/footer.png" alt="愛を込めて作られ" style="max-width:100%;"><br />
+   
+</p>
