@@ -16,6 +16,32 @@ This repository contains solutions of the [Daily Coding Problem](https://www.dai
 
 <hr />
 
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<hr />
+
+<!-- DONATE -->
+
+## Donate
+
+Support by PayPal:
+
+<p><a href="https://www.paypal.me/vladimirlukyanov">
+    <img src="./.img/paypal-button-png-10.png" height="40" />
+</a></p>
+
+Become a Patreon:
+
+<a href="https://www.patreon.com/vladimirlukyanov">
+    <img src="./.img/patreon-button-png-10.png" height="40" />
+</a>
+
+<hr />
+
 <p align="center">
     <img src="./.images/footer.png" alt="愛を込めて作られ" style="max-width:100%;"><br />
    
