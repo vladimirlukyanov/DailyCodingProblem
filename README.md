@@ -31,13 +31,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Support by PayPal:
 
 <p><a href="https://www.paypal.me/vladimirlukyanov">
-    <img src="./.img/paypal-button-png-10.png" height="40" />
+    <img src="./.images/paypal-button-png-10.png" height="40" />
 </a></p>
 
 Become a Patreon:
 
 <a href="https://www.patreon.com/vladimirlukyanov">
-    <img src="./.img/patreon-button-png-10.png" height="40" />
+    <img src="./.images/patreon-button-png-10.png" height="40" />
 </a>
 
 <hr />
