@@ -44,5 +44,5 @@ Become a Patreon:
 
 <p align="center">
     <img src="./.images/footer.png" alt="愛を込めて作られ" style="max-width:100%;"><br />
-   
+  
 </p>
