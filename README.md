@@ -10,9 +10,13 @@ This repository contains solutions of the [Daily Coding Problem](https://www.dai
 
 <hr />
 
+<p align="left">
+<img src="./.images/image3.png" />
+</p>
 ## Problems
 
 * [#1](https://github.com/vladimirlukyanov/DailyCodingProblem/wiki/Problem1)
+* [#2](https://github.com/vladimirlukyanov/DailyCodingProblem/wiki/Problem2)
 
 <hr />
 
