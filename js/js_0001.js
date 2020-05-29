@@ -26,10 +26,10 @@ function check_array2(_array, sum) {
     return false;
 }
 
-console.log(check_array(list, k));
-console.log(check_array([10, 20, 30, 40], 60));
-console.log(check_array([1, 5, 61, 10], 55));
+console.log(check_array(list, k)); // true
+console.log(check_array([10, 20, 30, 40], 60)); // true
+console.log(check_array([1, 5, 61, 10], 55)); // false
 
-console.log(check_array2(list, k));
-console.log(check_array2([10, 20, 30, 40], 60));
-console.log(check_array2([1, 5, 61, 10], 55));
+console.log(check_array2(list, k)); // true
+console.log(check_array2([10, 20, 30, 40], 60)); // true
+console.log(check_array2([1, 5, 61, 10], 55)); // false
